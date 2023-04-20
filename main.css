@@ -1,5 +1,5 @@
 body {
-  background-color: sienna;
+  background-color: rgb(108, 54, 29);
 }
 
 .container {
@@ -31,11 +31,23 @@ p {
 }
 
 .fa-twitter {
-  background: #e3a857;
+  background: #b58c54;
   color: white;
+  padding: 15px;
+  margin: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
 }
 
 .fa-instagram {
-  background: #e3a857;
+  background: #b58c54;
   color: white;
+  padding: 15px;
+  margin: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
 }
